@@ -1,0 +1,15 @@
+<!--pages/four_buildings/four_buildings.wxml-->
+<view class="navigator-container">
+  <image class="square-style top-left" src="../../static/images/four_buildings/Frame 4.png" data-index="0">
+    
+  </image>
+  <image class="square-style top-right" src="../../static/images/four_buildings/Frame 4.png" data-index="1">
+    
+  </image>
+  <image class="square-style bottom-left" src="../../static/images/four_buildings/Frame 4.png" data-index="2">
+    
+  </image>
+  <image class="square-style bottom-right" src="../../static/images/four_buildings/Frame 4.png" data-index="3">
+    
+  </image>
+</view>

@@ -1,0 +1,42 @@
+/* pages/four_buildings/four_buildings.wxss */
+
+page {
+  position: relative;
+  background-color: #EBE5D4;
+}
+
+.navigator-container {
+  position: absolute;
+  top: 387rpx;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 71.2%;
+  height: 700rpx;
+}
+
+.square-style {
+  position: absolute;
+  width: 230rpx;
+  height: 245rpx;
+  
+}
+
+.top-left {
+  top: 0;
+  left: 0;
+}
+
+.top-right{
+  top: 0;
+  right: 0;
+}
+
+.bottom-left{
+  bottom: 0;
+  left: 0;
+}
+
+.bottom-right{
+  bottom: 0;
+  right: 0;
+}

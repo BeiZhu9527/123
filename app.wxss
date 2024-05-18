@@ -1,3 +1,4 @@
+@import "./pages/path_A/pathA.wxss";
 .mask{
   width: 100vw;
   height: 100vh;

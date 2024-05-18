@@ -1,7 +1,10 @@
 {
   "pages": [
+    "pages/catalogue/catalogue",
     "pages/first/first",
-    "pages/index/index"
+    "pages/index/index",
+    "pages/four_buildings/four_buildings",
+    "pages/path_A/pathA"
   ],
   "window": {
     "backgroundTextStyle": "light",

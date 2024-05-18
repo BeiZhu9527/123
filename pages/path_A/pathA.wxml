@@ -1,0 +1,62 @@
+<!--pages/path_A/pathA.wxml-->
+<view class="navigate-bar">
+  <view class="iconfont icon-fanhui back-icon">
+  </view>
+  <view class="text-container">
+    西南大后方的进步美术
+  </view>
+</view>
+
+<view class="circle-container top-left-container">
+  <image src="../../static/images/global_img/user.png"></image>
+</view>
+
+<view class="circle-container top-right-container">
+  <image src="../../static/images/global_img/menu.png"/>
+</view>
+
+<view class="circle-container middle-right-container">
+  <image src="../../static/images/global_img/right_arrow.png"/>
+</view>
+
+<view class="icon-index-circle">
+  <view class="now-index">
+    {{nowIndex}}
+  </view>
+  <view class="div">
+    /
+  </view>
+  <view class="total-index">
+    8
+  </view>
+</view>
+
+<view class="bottom-bar-base">
+  <view class="icon-intro">
+    <image src="../../static/images/global_img/home.png" mode="widthFix"/>
+    <view class="intro">
+      首 页
+    </view>
+  </view>
+
+  <view class="icon-intro">
+    <image src="../../static/images/global_img/exhibition.png" mode="widthFix"/>
+    <view class="intro">
+      画 展
+    </view>
+  </view>
+
+  <view class="icon-intro">
+    <image src="../../static/images/global_img/earphones.png" mode="widthFix"/>
+    <view class="intro">
+      讲 解
+    </view>
+  </view>
+
+  <view class="icon-intro">
+    <image src="../../static/images/global_img/self.png" mode="widthFix"/>
+    <view class="intro">
+      我 的
+    </view>
+  </view>
+</view>

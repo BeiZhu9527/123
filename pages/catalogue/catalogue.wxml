@@ -1,0 +1,4 @@
+<!--pages/catalogue/catalogue.wxml-->
+<text>pages/catalogue/catalogue.wxml</text>
+<view bind:tap="navigate" data-dest="pages/four_buildings/four_buildings">pages/four_buildings/four_buildings</view>
+<view bind:tap="navigate" data-dest="pages/path_A/pathA">pages/path_A/pathA</view>
