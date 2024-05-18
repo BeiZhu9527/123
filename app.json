@@ -1,7 +1,12 @@
 {
   "pages": [
     "pages/first/first",
-    "pages/index/index"
+    "pages/index/index",
+    "pages/lineB1/lineB1",
+    "pages/lineB2/lineB2",
+    "pages/lineB3/lineB3",
+    "pages/lineB4/lineB4",
+    "pages/lineB5/lineB5"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -1,0 +1,175 @@
+/* pages/lineB1/lineB1.wxss */
+page {
+  background-color: rgba(165, 226, 226, 0.13);
+}
+.custom-navbar {
+  background-color: #91AFBF;
+  color: #FFF;
+  height: 170rpx;
+  padding: 0 15rpx;
+  display: flex;
+  align-items: center;
+}
+/* 在页面的wxss文件中 */
+.custom-tab-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #91AFBF;
+  height: 138rpx;
+}
+
+.tab-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tab-icon {
+  width: 56rpx;
+  height: 56rpx;
+}
+
+.tab-text {
+  color: rgb(187, 26, 26);
+  font-size: 25rpx;
+}
+
+.title2 {
+  margin-top: 50rpx;
+  margin-left: 120rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+  color: rgb(187, 26, 26);
+}
+.img{
+  position: absolute;
+  width:92rpx;
+  height:92rpx;
+  z-index: 1;
+  margin-left: 40rpx;
+  margin-top: 22rpx;
+}
+.img2{
+  position: absolute;
+  width:36rpx;
+  height:40rpx;
+  z-index: 2;
+  margin-left: 68rpx;
+  margin-top: 45rpx;
+}
+.img3{
+  position: absolute;
+  width:92rpx;
+  height:92rpx;
+  z-index: 1;
+  margin-left: 625rpx;
+  margin-top: 22rpx;
+}
+.img4{
+  position: absolute;
+  width:36rpx;
+  height:40rpx;
+  z-index: 2;
+  margin-left: 653rpx;
+  margin-top: 45rpx;
+}
+
+.title{
+  position: absolute;
+  font-size: 30rpx;
+  color: #4A5E76;
+  font-weight: bold;
+  margin-top: 350rpx;
+  margin-left: 20rpx;
+  letter-spacing: 4rpx;
+  z-index: 2;
+}
+
+.img5{
+  position: absolute;
+  width:100%;
+  height:444rpx;
+  z-index: 2;
+  margin-top: 400rpx;
+}
+.img7{
+  position: absolute;
+  width:80rpx;
+  height:80rpx;
+  z-index: 3;
+  margin-left: 660rpx;
+  margin-top: 580rpx;
+}
+.img8{
+  position: absolute;
+  width:36rpx;
+  height:40rpx;
+  z-index: 3;
+  margin-left: 680rpx;
+  margin-top: 600rpx;
+}
+.img6{
+  position: relative;
+  width:164rpx;
+  height:164rpx;
+  z-index: 2;
+  margin-top: 1130rpx;
+  margin-left: 550rpx;
+}
+.text1{
+  position: absolute;
+  font-size: 50rpx;
+  color: #4A5E76;
+  font-weight: bold;
+  margin-top: 860rpx;
+  margin-left: 10rpx;
+  letter-spacing: 4rpx;
+  z-index: 2;
+}
+
+.text2{
+  position: absolute;
+  font-size: 28rpx;
+  color: #4A5E76;
+  margin-top: 930rpx;
+  margin-left: 30rpx;
+  letter-spacing: 4rpx;
+  z-index: 2;
+}
+
+.text3{
+  position: absolute;
+  font-size: 70rpx;
+  color: #4A5E76;
+  font-weight: bold;
+  margin-top: 1160rpx;
+  margin-left: -130rpx;
+  letter-spacing: 4rpx;
+  z-index: 2;
+}
+
+.text4{
+  position: absolute;
+  font-size: 70rpx;
+  color: #4A5E76;
+  margin-top: 1165rpx;
+  margin-left: -90rpx;
+  letter-spacing: 4rpx;
+  z-index: 2;
+}
+
+.text5{
+  position: absolute;
+  font-size: 50rpx;
+  color: #4A5E76;
+  margin-top: 1200rpx;
+  margin-left: -60rpx;
+  letter-spacing: 4rpx;
+  z-index: 2;
+}
+

@@ -1,8 +1,8 @@
 /* pages/shouye.wxss */
 .img{
   position: absolute;
-  width: 430px;
-  height: 228px;
+  width:750rpx;
+  height:400rpx;
   z-index: 1;
 }
 page {
@@ -10,17 +10,106 @@ page {
 }
 .img2{
   position: absolute;
-  width: 433px;
-  height: 228px;
+  width:750rpx;
+  height:400rpx;
 }
 
 .title{
   position: absolute;
-  font-size: 20px;
+  font-size: 35rpx;
   color: rgb(187, 26, 26);
   font-weight: bold;
-  margin-top: 200px;
-  margin-left: 20px;
-  letter-spacing: 2px;
+  margin-top: 320rpx;
+  margin-left: 70rpx;
+  letter-spacing: 4rpx;
   z-index: 2;
+}
+
+.img3{
+  width: 600rpx;
+  height: 400rpx;
+  position: absolute;
+  margin-top: 360rpx;
+  margin-left: 70rpx;
+  z-index: 2;
+}
+
+.img4{
+  width: 700rpx;
+  height: 500rpx;
+  position: absolute;
+  margin-top: 320rpx;
+  margin-left: 18rpx;
+  z-index: 2;
+}
+
+.img5{
+  width: 160rpx;
+  height: 120rpx;
+  position: relative;
+  margin-left: 70rpx;
+  margin-top: 820rpx;
+}
+.img6{
+  width: 160rpx;
+  height: 120rpx;
+  margin-left: 60rpx;
+  position: relative;
+
+}
+.img7{
+  width: 160rpx;
+  height: 120rpx;
+  margin-left: 60rpx;
+  position: relative;
+}
+
+.text1{
+  position: relative;
+  font-size: 33rpx;
+  color: rgb(187, 26, 26);
+  margin-top: 20rpx;
+  margin-left: 80rpx;
+  letter-spacing: 4rpx;
+}
+.text2{
+  position: relative;
+  font-size: 33rpx;
+  color: rgb(187, 26, 26);
+  margin-top: 20rpx;
+  margin-left: 75rpx;
+  letter-spacing: 4rpx;
+}
+.text3{
+  position: relative;
+  font-size: 33rpx;
+  color: rgb(187, 26, 26);
+  margin-top: 20rpx;
+  margin-left: 75rpx;
+  letter-spacing: 4rpx;
+}
+
+.title2{
+  position: relative;
+  font-size: 40rpx;
+  color: rgb(187, 26, 26);
+  font-weight: bold;
+  margin-top: 30rpx;
+  margin-left: 50rpx;
+  letter-spacing: 4rpx;
+}
+
+.img8{
+  width: 300rpx;
+  height: 446rpx;
+  margin-top: 30rpx;
+  margin-left: 20rpx;
+  position: relative;
+}
+
+.img9{
+  width: 300rpx;
+  height: 446rpx;
+  margin-left: 60rpx;
+  position: relative;
 }

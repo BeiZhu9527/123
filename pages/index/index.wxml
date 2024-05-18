@@ -1,4 +1,23 @@
 <!--pages/shouye.wxml-->
 <image src="../../static/images/Frame 11.png" class="img"/>
-<image src="../../static/images/image 1.png" class="img2"/>
-<view class="title">中国抗战美术作品数字展</view>
+<image src="../../static/images/image 1.png" class="img2"  />
+
+<view class="title" >中国抗战美术作品数字展</view>
+<image src="../../static/images/image 4.png" class="img3"/>
+<image src="../../static/images/Frame 13.png" class="img4"/>
+
+<image src="../../static/images/Frame 3.png" class="img5"/>
+<image src="../../static/images/Frame 3.png" class="img6"/>
+<image src="../../static/images/Frame 3.png" class="img7"/>
+<view>
+  <text class="text1" >画家介绍</text>
+  <text class="text2" >背景介绍</text>
+  <text class="text3" >数字美术</text>
+</view>
+
+<view class="title2">背景介绍</view>
+
+<image src="../../static/images/image 6.png" class="img8"/>
+<image src="../../static/images/image 15.png" class="img9"/>
+
+

@@ -4,34 +4,41 @@
   "setting": {
     "compileHotReLoad": true
   },
-  "libVersion": "2.30.4",
+  "libVersion": "3.4.2",
   "condition": {
     "miniprogram": {
       "list": [
         {
           "name": "",
-          "pathName": "pages/form/form",
+          "pathName": "pages/lineB4/lineB4",
           "query": "",
           "launchMode": "default",
           "scene": null
         },
         {
           "name": "",
-          "pathName": "pages/event/event",
+          "pathName": "pages/lineB5/lineB5",
           "query": "",
           "launchMode": "default",
           "scene": null
         },
         {
           "name": "",
-          "pathName": "pages/data/data",
+          "pathName": "pages/lineB2/lineB2",
           "query": "",
           "launchMode": "default",
           "scene": null
         },
         {
           "name": "",
-          "pathName": "pages/demo/demo",
+          "pathName": "pages/lineB1/lineB1",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/lineB3/lineB3",
           "query": "",
           "launchMode": "default",
           "scene": null

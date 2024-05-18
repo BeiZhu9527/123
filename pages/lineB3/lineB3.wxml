@@ -1,0 +1,42 @@
+<!--pages/lineB1/lineB1.wxml-->
+<view class="custom-navbar">
+  <text class="title2">'光明同行',唐一禾作品回顾</text>
+</view>
+
+<view class="custom-tab-bar">
+  <view class="tab-item">
+    <image class="tab-icon" src="../../static/images/Vector 4.png"></image>
+    <text class="tab-text">首页</text>
+  </view>
+  <view class="tab-item">
+    <image class="tab-icon" src="../../static/images/Group 6.png"></image>
+    <text class="tab-text">画展</text>
+  </view>
+  <view class="tab-item">
+    <image class="tab-icon" src="../../static/images/Group 7.png"></image>
+    <text class="tab-text">讲解</text>
+  </view>
+  <view class="tab-item">
+    <image class="tab-icon" src="../../static/images/Group 8.png"></image>
+    <text class="tab-text">我的</text>
+  </view>
+  <!-- 其他选项同理 -->
+</view>
+
+<image src="../../static/images/Ellipse 8.png" class="img"/>
+<image src="../../static/images/Group 9.png" class="img2"/>
+<image src="../../static/images/Ellipse 7.png" class="img3"/>
+<image src="../../static/images/Vector 12.png" class="img4"/>
+
+<text class="title" space='nbsp'>第二章:  以抗战题材 "传达全民的希望和力量"</text>
+<image src="../../static/images/image 13.png" class="img5"/>
+<image src="../../static/images/Ellipse 10.png" class="img7"/>
+<image src="../../static/images/Vector 3.png" class="img8"/>
+<view>
+  <text class="text1">《胜利与和平》\n</text>
+  <text class="text2">唐一禾/1943年</text>
+  <image src="../../static/images/Ellipse 9.png" class="img6"/>
+  <text class="text3">3</text>
+  <text class="text4">/</text>
+  <text class="text5">5</text>
+</view>
