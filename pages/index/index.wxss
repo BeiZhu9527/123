@@ -1,0 +1,26 @@
+/* pages/shouye.wxss */
+.img{
+  position: absolute;
+  width: 430px;
+  height: 228px;
+  z-index: 1;
+}
+page {
+  background-color: #FDF5E6;
+}
+.img2{
+  position: absolute;
+  width: 433px;
+  height: 228px;
+}
+
+.title{
+  position: absolute;
+  font-size: 20px;
+  color: rgb(187, 26, 26);
+  font-weight: bold;
+  margin-top: 200px;
+  margin-left: 20px;
+  letter-spacing: 2px;
+  z-index: 2;
+}

@@ -1,0 +1,4 @@
+<!--pages/shouye.wxml-->
+<image src="../../static/images/Frame 11.png" class="img"/>
+<image src="../../static/images/image 1.png" class="img2"/>
+<view class="title">中国抗战美术作品数字展</view>

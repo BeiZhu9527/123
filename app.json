@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/first/first",
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#B22222",
+    "navigationBarTitleText": "烽火艺程",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
